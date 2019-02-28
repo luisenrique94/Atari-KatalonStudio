@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Camion</name>
+   <tag></tag>
+   <elementGuidId>c16ef901-ad52-4007-a72e-07236ead63dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ui-panel-3-content&quot;]/div[1]/div/div/form/div/div[1]/div/div[1]/p-dropdown/div/div[3]/div/ul/li[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

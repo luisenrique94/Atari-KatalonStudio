@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tipo_Vehiculo_Obligatorio</name>
+   <tag></tag>
+   <elementGuidId>eced07cc-a898-429e-86ad-8c35911d5917</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ui-panel-3-content&quot;]/div[1]/div/div/form/div/div[1]/div/div[1]/p-dropdown/div/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
