@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Motocicleta</name>
+   <name>NumeroTarjetaPropiedad</name>
    <tag></tag>
-   <elementGuidId>8ee54316-f12c-4ce5-816b-596057179855</elementGuidId>
+   <elementGuidId>c20aad72-7daf-481e-af2e-5837159dc6b8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;ui-panel-1-content&quot;]/div[1]/div/div/form/div/div[1]/div/div[1]/p-dropdown/div/div[3]/div/ul/li[5]</value>
+         <value>//*[@id=&quot;propertyCardNumber&quot;]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

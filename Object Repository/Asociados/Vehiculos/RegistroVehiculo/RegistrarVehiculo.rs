@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Motocicleta</name>
+   <name>RegistrarVehiculo</name>
    <tag></tag>
-   <elementGuidId>8ee54316-f12c-4ce5-816b-596057179855</elementGuidId>
+   <elementGuidId>44e1e12f-0e0c-42f0-b436-d6d028b4150d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;ui-panel-1-content&quot;]/div[1]/div/div/form/div/div[1]/div/div[1]/p-dropdown/div/div[3]/div/ul/li[5]</value>
+         <value>//*[@id=&quot;ui-panel-1-content&quot;]/div[1]/div/div/form/p-footer/div/div[1]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

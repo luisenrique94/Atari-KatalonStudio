@@ -50,3 +50,43 @@ WebUI.delay(3)
 
 WebUI.sendKeys(findTestObject('Asociados/Vehiculos/RegistroVehiculo/Asociado_Ingresar'), Keys.chord(Keys.ARROW_DOWN, Keys.ENTER))
 
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Asociados/Vehiculos/RegistroVehiculo/Tipo-Vehiculo/TipoDeVehiculo'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Asociados/Vehiculos/RegistroVehiculo/Tipo-Vehiculo/Motocicleta'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Asociados/Vehiculos/RegistroVehiculo/Marca/Marca'))
+
+WebUI.sendKeys(findTestObject('Asociados/Vehiculos/RegistroVehiculo/Marca/IngresarMarcaDeVehiculo'), 'HONDA')
+
+WebUI.sendKeys(findTestObject('Asociados/Vehiculos/RegistroVehiculo/Marca/IngresarMarcaDeVehiculo'), Keys.chord(Keys.ARROW_DOWN, 
+        Keys.ENTER))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Asociados/Vehiculos/RegistroVehiculo/Modelo/Modelo'))
+
+WebUI.sendKeys(findTestObject('Asociados/Vehiculos/RegistroVehiculo/Modelo/IngresarModeloDeVehiculo'), 'CB')
+
+WebUI.sendKeys(findTestObject('Asociados/Vehiculos/RegistroVehiculo/Modelo/IngresarModeloDeVehiculo'), Keys.chord(Keys.ARROW_DOWN, 
+        Keys.ENTER))
+
+WebUI.delay(2)
+
+WebUI.sendKeys(findTestObject('Asociados/Vehiculos/RegistroVehiculo/NumeroDePlaca'), '478956')
+
+WebUI.delay(2)
+
+WebUI.sendKeys(findTestObject('Asociados/Vehiculos/RegistroVehiculo/NumeroTarjetaPropiedad'), '12345678912')
+
+WebUI.click(findTestObject('Asociados/Vehiculos/RegistroVehiculo/RegistrarVehiculo'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Asociados/Vehiculos/RegistroVehiculo/ConfirmarRegistro'))
+
